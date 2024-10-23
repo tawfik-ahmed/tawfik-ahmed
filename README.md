@@ -1,8 +1,8 @@
-<h1 align="left">Hi👋!</h1>
+<h1 align="left">Hi 👋!</h1>
 
 ###
 
-<h2 align="left">My name is Tawfik Ahmed,<br>I'm a Frontend developer</h2>
+<h3 align="left">My name is Tawfik Ahmed,<br>I'm a Frontend developer</h2>
 
 ###
 
